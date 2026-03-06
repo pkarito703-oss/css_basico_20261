@@ -1,0 +1,13 @@
+/*body {
+    background-color: pink;
+}*/
+
+/*selector class*/
+
+.container{
+    width: 80%;
+    border: 2px solid red;
+    padding: 20px;
+    text-align: justify;
+    margin: auto;
+}
