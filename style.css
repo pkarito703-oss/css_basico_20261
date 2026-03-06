@@ -11,3 +11,12 @@
     text-align: justify;
     margin: auto;
 }
+
+header{
+    background: green;
+    width: 100%;
+}
+
+.container main img{
+    width: 100%;
+}
